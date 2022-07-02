@@ -1,13 +1,13 @@
 ---
 title: Writing my first Post
 author: Syam-manoj
-date: 2022-06-30 11:43:00 +0530
-categories: [Blogging, Tutorial]
+date: 2022-06-30 23:43:00 +0530
+categories: [Musings, Blogging]
 tags: [musings]
 render_with_liquid: false
 ---
 
-The date is 30th June, 2022 (11 : 43 pm) and I should be sleeping by this time.
+The date is 30th June, 2022 (11 : 43 pm) and I should be sleeping by this time(at home).
 
 My father has already come to my room to remind me of sleeping.
 
