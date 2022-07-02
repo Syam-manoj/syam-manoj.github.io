@@ -56,7 +56,7 @@ google_site_verification: google-site-verification=9CmQp4lrdN3aewSwujGhrg0O1Ce8J
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-MKQKFS0DPQ                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
