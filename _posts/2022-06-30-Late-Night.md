@@ -15,6 +15,6 @@ So, this is my first time building a website/blog. Although I just grabbed a the
 
 I am writing this to check the live updates on my local computer. Shall push it to github tomorrow, in the morning.
 
-Okay, bye. :running_man:
+Okay, bye.
 
 ---

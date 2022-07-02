@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Syam-manoj's Website                          # the main title
 
-tagline: Computer Science & ENgineering Student   # it will display as the sub-title
+tagline: Computer Science & Engineering Student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A website where I document many things ranging from Computer Science blog to daily musings.
