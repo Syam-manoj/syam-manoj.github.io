@@ -1,14 +1,13 @@
 ---
 title: Three Thousand Stitches by Ms. Sudha Murty
-author: Syam-manoj
 date: 2022-07-04 22:38:00 +0530
 categories: [Book Talk, Reviews]
 tags: [2022-reads, short-stories, memoir, non-fiction, autobiography]
+image:
+    path: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622401777l/58203772._SY475_.jpg
+    height: 200
+    width: 200
 ---
-
-![Three-thousand-stitches](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622401777l/58203772._SY475_.jpg){: .shadow width="972" height="589" style="max-width: 200px" }
-_Three Thousand Stitches by Sudha Murty_
-
 
 - **Book Type** : ebook
 - **Link** : [goodreads](https://www.goodreads.com/book/show/58203772-three-thousand-stitches)
