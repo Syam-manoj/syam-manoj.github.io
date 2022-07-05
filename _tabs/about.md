@@ -10,13 +10,12 @@ If you speak to me in Telugu/using GOT quotes, I'll understand you better. I lik
 
 ## Contact me?
 
-[email] | [twitter] | [github] | [facebook] | [instagram] |
+[twitter] | [github] | <a href="javascript:location.href = 'mailto:' + ['shyammanojkumarpaila','gmail.com'].join('@')" aria-label="email"><i class="fas fa-envelope"></i></a>|[facebook]|[instagram]|
 
 ---
 
 [IIT KGP]: http://www.iitkgp.ac.in/
 [RK]: https://www.facebook.com/R.K.Hall.IITkgp/
-[email]: shyammanojkumarpaila@gmail.com
 [twitter]: https://twitter.com/PailaSyam
 [github]: https://github.com/Syam-manoj
 [facebook]: https://www.facebook.com/syammanojkumar.paila
