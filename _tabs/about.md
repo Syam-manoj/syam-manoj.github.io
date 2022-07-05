@@ -4,5 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am Syam Manoj Kumar Paila, and I am from Visakhapatnam, India. I am a 3rd year Undergraduate student of the Department of Computer Science & Engineering at the [Indian Institute of Technology, Kharagpur][IIT KGP]. I am from [Radhakrishnan Hall of Residence][RK] at KGP.
+
+If you speak to me in Telugu/using GOT quotes, I'll understand you better. I like to write about programming, books, etc. You know, a programmer's world is not restricted to their rooms and desks.
+
+## Contact me?
+
+[email] | [twitter] | [github] | [facebook] | [instagram] |
+
+---
+
+[IIT KGP]: http://www.iitkgp.ac.in/
+[RK]: https://www.facebook.com/R.K.Hall.IITkgp/
+[email]: shyammanojkumarpaila@gmail.com
+[twitter]: https://twitter.com/PailaSyam
+[github]: https://github.com/Syam-manoj
+[facebook]: https://www.facebook.com/syammanojkumar.paila
+[instagram]: https://www.instagram.com/syam_manoj.paila/
