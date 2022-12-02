@@ -36,7 +36,7 @@ Here are a few quotes from some of the chapters from the book that I highlighted
 ---
 
 ## 1. Three Thousand Stitches
-> "Well, if you want to change them, then you have to change yourself first. Change your attitude. Of course, it’s your decision in the end."
+> "Well, if you want to change them, then you have to change yourself first. Change your attitude. Of course, it's your decision in the end."
 
 ---
 
@@ -55,7 +55,7 @@ Here are a few quotes from some of the chapters from the book that I highlighted
 
 ## 10. A Day in Infosys Foundation
 
-> ‘The truth is that I am the luckiest of them all. I love what I do and every day is a holiday for me because of it. Who doesn’t love a vacation?’ I grinned.
+> 'The truth is that I am the luckiest of them all. I love what I do and every day is a holiday for me because of it. Who doesn't love a vacation?' I grinned.
 
 ---
 
