@@ -26,7 +26,7 @@ title: Syam-manoj's Website                          # the main title
 tagline: Yogah Karmasu Kaushalam   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A website where I document many things ranging from Computer Science blog to daily musings.
+  A website where I try to document many things ranging from Computer Science to daily musings.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://syam-manoj.github.io'

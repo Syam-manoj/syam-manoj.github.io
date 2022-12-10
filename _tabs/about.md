@@ -4,9 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I am Syam Manoj Kumar Paila, and I am from Visakhapatnam, India. I am a 3rd year Undergraduate student of the Department of Computer Science & Engineering at the [Indian Institute of Technology, Kharagpur][IIT KGP]. I am from [Radhakrishnan Hall of Residence][RK] at KGP.
+I am Syam Manoj Kumar Paila from Visakhapatnam, India. I am a 3rd year UG student of the Department of Computer Science & Engineering at the [Indian Institute of Technology, Kharagpur][IIT KGP].
 
-If you speak to me in Telugu/using GOT quotes, I'll understand you better. I like to write about programming, books, etc. You know, a programmer's world is not restricted to their rooms and desks.
+I am a boarder of [Radhakrishnan Hall of Residence][RK] at KGP. Incoming research intern at [Adobe, India][Adobe] in Summer 2023.
+
+I do not restrict my world to desks and keyboard strokes. Interested a bit about Indian history and a byte about CS. Telugu and GOT lingo is the most I'm comfortable in.
 
 ## Contact me?
 
@@ -14,6 +16,7 @@ If you speak to me in Telugu/using GOT quotes, I'll understand you better. I lik
 
 ---
 
+[Adobe]: https://research.adobe.com/research/
 [IIT KGP]: http://www.iitkgp.ac.in/
 [RK]: https://www.facebook.com/R.K.Hall.IITkgp/
 [twitter]: https://twitter.com/PailaSyam
